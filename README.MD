@@ -56,8 +56,3 @@ npm start
 ---
 
 ✅ **Author:** MD Owais Jamal
-
----
-
-Agar chaho to main iska aur **GitHub-ready version with badges aur live demo link** bana doon jo zyada eye-catching lage.
-Chahiye kya?
